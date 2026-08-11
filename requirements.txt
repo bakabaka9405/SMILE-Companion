@@ -1,0 +1,14 @@
+daisy @ git+https://github.com/bakabaka9405/daisy.git
+torch==2.12.0
+torchvision==0.27.0
+timm==1.0.26
+peft==0.19.1
+numpy==2.4.4
+Pillow==12.2.0
+pandas==3.0.2
+openpyxl==3.1.5
+scikit-learn==1.8.0
+opencv-python==5.0.0.93
+pydantic==2.13.3
+tomli==2.4.1
+tomli-w==1.2.0
